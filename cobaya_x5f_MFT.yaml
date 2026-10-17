@@ -1,0 +1,47 @@
+# Cobaya yaml para MFT V16 Publico - testable DESI DR2 + BAO + SNe
+# Uso: cobaya-run cobaya_MFT.yaml
+likelihood:
+  desi_bao.desi_dr2: null
+  sn.pantheonplus: null
+  H0.riess2022: null
+
+theory:
+  camb:
+    extra_args:
+      dark_energy_model: ppf
+      w: -0.743
+      wa: -0.28
+
+params:
+  H0:
+    prior:
+      min: 69
+      max: 72
+    ref: 70.85
+    proposal: 0.5
+    latex: H_0
+  omegam:
+    prior:
+      min: 0.28
+      max: 0.35
+    ref: 0.315
+  w0:
+    prior:
+      min: -0.85
+      max: -0.65
+    ref: -0.743
+    latex: w_0
+  wa:
+    prior:
+      min: -0.4
+      max: -0.15
+    ref: -0.28
+    latex: w_a
+
+sampler:
+  mcmc:
+    max_samples: 10000
+
+# Prediccion MFT falsable:
+# Si DR3 no ve zc 0.71 +/-0.15 o H0 fuera 69-72 => MFT descartado
+# Si ve zc=0.71 y H0=70.85 +/-1.5 => MFT validado sobre LCDM sin Lambda
