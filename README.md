@@ -3,7 +3,7 @@
 
 **Autor:** M. Alex Silva - Independent, Indianapolis, IN, USA  
 **Zenodo:** 10.5281/zenodo.XXXXXXX (MFT v2.2 + Documento Unificado V16)  
-**ORCID:** 0009-0000-0000-0000  
+**ORCID:** 0009-0000-9025-1505  
 **Escala Única:** 1 peldaño = 1 cm = 20° = π/9 = 46/15 Gyr = 3.0666 Gyr = 1.15u  
 Radio observable = 16u = 48 Gyr = 15.652 peldaños = 313.04°  
 Diámetro total = 36u = 96 Gyr = 31.304 peldaños  
