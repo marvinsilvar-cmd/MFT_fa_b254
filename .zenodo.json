@@ -1,0 +1,15 @@
+{
+  "title": "MFT - Modelo Flujo del Tiempo - Documento Unificado V16 Publico",
+  "upload_type": "software",
+  "description": "MFT Flujo del Tiempo f(a) para Cobaya/CAMB/CLASS - Testeable DESI DR2. H0=70.85, w0=-0.743, wa=-0.28, zc=0.71. 1 peldaño=46/15 Gyr=3.0666 Gyr=1cm=20deg. B geom 2.5409 vs B obs 1.449.",
+  "creators": [
+    {
+      "name": "Silva, M. Alex",
+      "affiliation": "Independent, Indianapolis, IN, USA",
+      "orcid": "0009-0000-9025-1505"
+    }
+  ],
+  "keywords": ["MFT Flujo del Tiempo", "cosmology", "DESI", "Hubble tension"],
+  "license": "mit",
+  "access_right": "open"
+}
