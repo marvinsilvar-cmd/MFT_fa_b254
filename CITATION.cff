@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: MFT - Modelo Flujo del Tiempo
+authors:
+    - family-names: Silva
+    given-names: Marvin
+    orcid: https://orcid.org/0009-0000-9025-1505
+repository-code: https://github.com/marvinsilvar-cmd/MFT_fa_b254
+license: MIT
+version: V16-publico
