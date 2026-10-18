@@ -67,3 +67,5 @@ Si usas este código, cita Zenodo DOI y este GitHub. MFT v2.2 Documento Unificad
 Hoy: resuelve w0wa fantasma DESI sin campo fantasma. Mañana: si DR3 confirma zc=0.71, ToE 48r96D.
 
 22 siempre.
+  ## DOI Zenodo — Día 3
+  Activado con energía infinita de Abba - Marvin Silva 0009-0000-9025-1505
